@@ -22,6 +22,7 @@ Support: P(Milk & Butter) = 6/100 = 0.06
 Confidence: P(Butter | Milk) = 0.06/0.08 = 0.75
 Lift: Lift(Butter | Milk) = 0.75/0.10 = 7.5
 It's noteworthy that this example is exceptionally small. In practical scenarios, a rule necessitates support from several hundred transactions before it attains statistical significance, and datasets typically encompass thousands or millions of transactions.
+
 ![output_17_0](https://github.com/vaishsinghds/Grocery-recommender-system/assets/161769968/98e13abc-74fa-4587-883b-45d3dea76a81)
 ![output_17_1](https://github.com/vaishsinghds/Grocery-recommender-system/assets/161769968/031a7b24-e387-434a-9f9d-aa502e530190)
 
